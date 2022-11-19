@@ -9,6 +9,7 @@
 }
 .navbar__menu {
 	display: flex;
+	list-style: none;
 	gap: 24px;
 	font-family: 'Inter';
 	font-style: normal;
@@ -17,7 +18,6 @@
 	line-height: 24px;
 }
 .navbar__link {
-	list-style: none;
 	text-decoration: none;
 	color: var(--grey-7);
 }
