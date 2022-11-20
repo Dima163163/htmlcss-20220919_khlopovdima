@@ -70,5 +70,8 @@
 @media (max-width: 410px) {
 	.tooltip_page {
 		padding-top: 80px;
-	}	
+	}
+	.tooltip__helper_opened {
+		bottom: calc(22% + 10px);
+	}
 }
