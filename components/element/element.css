@@ -184,6 +184,11 @@
 	}
 }
 
+@media (max-width: 410px) {
+	.elements {
+		padding-top: 0px;
+	}
+}
 
 
 
