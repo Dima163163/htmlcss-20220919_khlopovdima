@@ -67,4 +67,8 @@
 	
 }
 
-
+@media (max-width: 410px) {
+	.tooltip_page {
+	padding-top: 80px;
+	}	
+}
