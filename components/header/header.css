@@ -130,7 +130,7 @@
 		border: none;
 		position: absolute;
 		background: transparent;
-		padding: 5px 26px;
+		padding: 5px 0;
 	}
 	.header__pages .header__logo {
 		position: relative;
