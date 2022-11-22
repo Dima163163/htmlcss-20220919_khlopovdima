@@ -83,6 +83,10 @@
 		margin: 0 auto;
 		min-width: 200px;
 	}
+	
+	.histogram__bottom {
+		margin-top: 5px;
+	}
 
 	.histogram_page .histogram__title {
 		font-size: 12px;
