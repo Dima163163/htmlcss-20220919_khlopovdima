@@ -66,6 +66,7 @@
 .tabs__content {
 	display: none;
 	margin-top: 20px;
+	margin-rigt: 50px;
 }
 
 .tabs__inner {
