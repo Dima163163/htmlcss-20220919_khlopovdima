@@ -104,3 +104,9 @@
 		gap: 20px;
 	}
 }
+
+@media (max-width: 410px) {
+	.tabs__nav {
+		font-size: 12px;
+	}
+}
