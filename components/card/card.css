@@ -78,11 +78,6 @@
 }
 
 @media (max-width: 410px) {
-	.card {
-		width: 164px;
-		height: 270px;
-	}
-
 	.card__title {
 		font-size: 14px;
 	}
