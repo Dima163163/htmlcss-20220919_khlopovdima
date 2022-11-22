@@ -1,5 +1,5 @@
 .page{
-	min-height: 100%;
+	overflow: hidden;
 	background-color: var(--main-bg);
 }
 
