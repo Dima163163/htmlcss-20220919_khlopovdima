@@ -85,9 +85,9 @@
 	position: absolute;
 	left: 2px;
 	top: calc(50%  - 24px/2);
-   width: 24px;
-   height: 24px;
-   background-color: var(--grey-2);
+   	width: 24px;
+   	height: 24px;
+   	background-color: var(--grey-2);
 	border-radius: 16px;
 	transform: translate(0);
 }
@@ -122,6 +122,8 @@
 	justify-content: space-between;
 }
 
+
+
 @media (max-width: 761px) {
 	.header__pages .header__menu-open {
 		display: block;
@@ -143,6 +145,9 @@
 	}
 	.header__pages .header-toggle {
 		margin-left: 34px;
+	}
+	.header__pages-toggle {
+		margin-right: 30px;
 	}
 }
 
