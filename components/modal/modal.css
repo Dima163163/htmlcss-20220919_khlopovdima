@@ -29,6 +29,7 @@
 	font-family: 'Inter';
 	font-style: normal;
 	max-width: 428px;
+	width: 100%;
 	background: var(--main-bg);
 	border-radius: 8px;
 }
@@ -55,7 +56,7 @@
 .modal_page {
 	display: block;
 	position: relative;
-	width: 100%;
+	max-width: 200px;
 	height: 70%; 
 }
 
