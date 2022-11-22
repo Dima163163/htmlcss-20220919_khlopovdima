@@ -80,12 +80,6 @@
 		height: 70%;
 	}
 
-	.modal__top-title {
-		font-size: 8px;
-		line-height: 10px;
-		margin: 10px 0 0 10px;
-	}
-
 	.modal__text {
 		font-size: 6px;
 		line-height: 8px;
