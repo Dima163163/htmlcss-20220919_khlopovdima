@@ -78,7 +78,7 @@
 	padding: 12px 16px;
 }
 
-@media (max-width: 735px) {
+@media (max-width: 760px) {
 	.histogram_page {
 		margin: 0 auto;
 		min-width: 200px;
