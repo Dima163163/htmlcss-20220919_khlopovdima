@@ -22,9 +22,4 @@
 	}
 }
 
-@media (max-width: 610px) {
-	.pages__wrapper {
-		min-width: 400px;
-		overflow-x: scroll;
-	}
-}
+
