@@ -81,7 +81,7 @@
 @media (max-width: 760px) {
 	.histogram_page {
 		margin: 0 auto;
-		min-width: 260px;
+		width: 80%;
 	}
 	
 	.histogram__bottom {
