@@ -33,7 +33,6 @@
 
 @media (max-width: 760px) {
 	.component-section {
-		width: 100vw;
-    		margin-right: 72px;
+		min-width: 100vw;
 	}
 }	
