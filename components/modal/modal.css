@@ -80,6 +80,11 @@
 		width: 80%;
 		height: 70%;
 	}
+	
+	.modal__top-title {
+		font-size: 12px;
+		padding-left: 10px;
+	}
 
 	.modal__text {
 		font-size: 6px;
