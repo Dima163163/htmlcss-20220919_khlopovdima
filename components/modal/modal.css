@@ -56,6 +56,7 @@
 .modal_page {
 	display: block;
 	position: relative;
+	max-width: 200px;
 	height: 70%; 
 }
 
