@@ -103,6 +103,9 @@
 	.tabs__menu {
 		gap: 20px;
 	}
+	.tabs__btn {
+		padding-right: 20px;
+	}
 }
 
 @media (max-width: 410px) {
