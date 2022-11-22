@@ -95,7 +95,7 @@
 	line-height: 16px;
 	overflow-x: auto;
 }
-
+	
 @media (max-width: 610px) {
 	.tabs__nav {
 		font-size: 14px;
