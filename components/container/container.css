@@ -4,3 +4,7 @@
 	width: 100%;
 	padding: 0 20px;
 }
+
+.container_pages {
+	box-sizing: border-box;
+}
