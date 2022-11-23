@@ -14,9 +14,6 @@
 	grid-column-gap: 50px;
 }
 
-.container_pages {
-	box-sizing: border-box;
-}
 @media (max-width: 761px) {
 	.pages__wrapper {
 		display: flex;
