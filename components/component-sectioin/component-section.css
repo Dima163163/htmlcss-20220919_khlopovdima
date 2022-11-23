@@ -32,11 +32,19 @@
 	margin-right: 50px;
 }
 
-@media (max-width: 760px) {
+@media (max-width: 761px) {
 	.component-section {
 		min-width: 100vw;
 	}
 	.component-section__bottom {
 		margin-right: 50px;
 	}
+	.component-section__title {
+		text-align: center;
+	}
+	.component-section__body {
+		margin: 0 auto;
+	}
 }	
+
+
