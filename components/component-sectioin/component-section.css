@@ -29,6 +29,7 @@
 
 .component-section__top {
 	margin-bottom: 30px;
+	margin-right: 50px;
 }
 
 @media (max-width: 760px) {
