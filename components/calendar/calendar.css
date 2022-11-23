@@ -1,5 +1,5 @@
 .calendar {
-	max-width: 300px;
+	min-width: 300px;
 	width: 100%;
 	padding: 28px 26px 32px 26px;
 	box-sizing: border-box;
