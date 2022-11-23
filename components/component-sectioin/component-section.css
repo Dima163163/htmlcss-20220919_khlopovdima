@@ -35,4 +35,7 @@
 	.component-section {
 		min-width: 100vw;
 	}
+	.component-section__bottom {
+		margin-right: 50px;
+	}
 }	
