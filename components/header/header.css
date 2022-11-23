@@ -11,6 +11,7 @@
 }
 
 .header_size_small {
+	align-items: center;
 	padding: 24px 0 62px ;
 	background: transparent;
 }
